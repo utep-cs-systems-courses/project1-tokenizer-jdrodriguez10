@@ -1,7 +1,7 @@
 #ifndef _HISTORY_
 #define _HISTORY_
 
-typedef struct s_Item { 
+typedef struct s_Item {  
   int id;
   char *str;
   struct s_Item *next;
