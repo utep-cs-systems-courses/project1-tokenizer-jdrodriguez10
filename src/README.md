@@ -1,6 +1,6 @@
 Project 1: Tokenizer
 ====================
-# Project Description:
+# Project Description: 
 
 For project one we were tasked with creating a tokenizer that also keeps it's
 history. We have a tokenizer class that takes a string from a user and
