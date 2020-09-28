@@ -4,7 +4,7 @@
 
 /* returns 1 if c is a space or tab and 0 if not */
 int space_char(char c)
-{
+{ 
   if ((c == ' ' || c == '\t') && c != 0) {
     return 1;
   }
