@@ -3,7 +3,7 @@
 #include "history.h"
 
 /* used to initialize the list */
-List *init_history(){
+List *init_history(){  
   List *history = malloc(sizeof(List));
   history->root = NULL;
   return history;
