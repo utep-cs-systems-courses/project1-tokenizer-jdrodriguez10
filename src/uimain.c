@@ -5,7 +5,7 @@
 
 void token_to_history(List *history, char **tokens);
 
-int main()
+int main() 
 {
   char input[100];
   List *history = init_history();
